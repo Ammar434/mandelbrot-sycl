@@ -11,9 +11,8 @@
 
 </div>
 
-<div align="center">
+## Demo
 https://github.com/user-attachments/assets/7533f51b-8d29-4b83-9d14-1198a73cc95b
-</div>
 
 
 <hr>
