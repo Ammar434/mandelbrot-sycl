@@ -8,9 +8,13 @@
 <a href="https://github.com/yourusername/mandelbrot-visualizer/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg" alt="Mandelbrot Set" width="400"/>
 
 </div>
+
+<div align="center">
+https://github.com/user-attachments/assets/7533f51b-8d29-4b83-9d14-1198a73cc95b
+</div>
+
 
 <hr>
 
